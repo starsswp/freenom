@@ -319,7 +319,7 @@ $ cd /data/wwwroot/freenom/ && php run
 **你的star或者小额打赏是我长期维护此项目的动力所在，由衷感谢每一位支持者，“每一次你花的钱都是在为你想要的世界投票”。**
 
 ### 📋  捐赠名单 Donate List
-非常感谢「 [这些用户](https://github.com/luolongfei/freenom/wiki/Donate-List) 」对本项目的捐赠支持！
+非常感谢「 [这些用户](https://github.com/luolongfei/freenom/wiki/Donate-List) 」对本项目的捐赠支持！！
 
 ### 🌚  作者
 - 主程序以及框架：[@luolongfei](https://github.com/luolongfei)
@@ -331,8 +331,3 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
-
-
-
-starsswp
-
